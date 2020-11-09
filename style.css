@@ -58,7 +58,7 @@ h1, h2, h3 {
 }
 
 h1 {
-    font-size: 100px;
+    font-size: 50px;
 }
 
 h2 {
@@ -103,133 +103,86 @@ div img {
 }       
 
 .col1 {
-    text-align: center;
-    padding: 0px;
-    margin: 0px auto;
-    background-color: rgb(221, 114, 114);
-    vertical-align: middle;
     float: left;
     width: 8.333%;
+    background-color: rgb(221, 114, 114);
+    height: 50%;
 }
 
 .col2 {
-    text-align: center;
-    padding: 0px;
-    margin: 0px auto;
-    background-color: rgb(221, 153, 114);
-    vertical-align: middle;
     float: left;
-    width: 16.666%;
+    width:16.666%;
+    background-color: rgb(221, 153, 114);
+    height: 50%;
 }
 
 .col3 {
-    text-align: center;
-    padding: 0px;
-    margin: 0px auto;
-    background-color: rgb(221, 187, 114);
-    vertical-align: middle;
     float: left;
-    width: 24.966%;
+    width: 25%;
+    background-color: rgb(221, 187, 114);
+    height: 50%;
 }
 
 .col4 {
-    text-align: center;
-    padding: 0px;
-    margin: 0px auto;
-    background-color: rgb(221, 210, 114);
-    vertical-align: middle;
     float: left;
-    width: 33.266;
+    width: 33.333%;
+    background-color: rgb(221, 210, 114);
+    height: 50%;
 }
 
 .col5 {
-    text-align: center;
-    padding: 0px;
-    margin: 0px auto;
+    float: left;
+    width: 41.666%;
     background-color: rgb(205, 221, 114);
-    vertical-align: middle;
-    float: left;
-    width: 33.266%;
+    height: 50%;
 }
-
 .col6 {
-    text-align: center;
-    padding: 0px;
-    margin: 0px auto;
-    background-color: rgb(189, 221, 114);
-    vertical-align: middle;
     float: left;
-    width: 41.566%;
+    width: 50%;
+    background-color: rgb(189, 221, 114);
+    height: 50%;
 }
 
 .col7 {
-    text-align: center;
-    padding: 0px;
-    margin: 0px auto;
-    background-color: rgb(144, 221, 114);
-    vertical-align: middle;
     float: left;
-    width: 44.866%;
+    width: 58.333%;
+    background-color: rgb(144, 221, 114);
+    height: 50%;
 }
 
 .col8 {
-    text-align: center;
-    padding: 0px;
-    margin: 0px auto;
-    background-color: rgb(114, 221, 137);
-    vertical-align: middle;
     float: left;
-    width: 58.166%;
+    width: 66.666%;
+    background-color: rgb(114, 221, 137);
+    height: 50%;
 }
 
 .col9 {
-    text-align: center;
-    padding: 0px;
-    margin: 0px auto;
-    background-color: rgb(114, 221, 194);
-    vertical-align: middle;
     float: left;
-    width: 66.466%;
+    width: 75%;
+    background-color: rgb(114, 221, 194);
+    height: 50%;
 }
 
 .col10 {
-    text-align: center;
-    padding: 0px;
-    margin: 0px auto;
-    background-color: rgb(114, 178, 221);
-    vertical-align: middle;
     float: left;
-    width: 74,766%;
+    width: 83.333%;
+    background-color: rgb(114, 178, 221);
+    height: 50%;
 }
 
 .col11 {
-    text-align: center;
-    padding: 0px;
-    margin: 0px auto;
-    background-color: rgb(169, 114, 221);
-    vertical-align: middle;
     float: left;
-    width: 83.066%;
+    width: 91.666%;
+    background-color: rgb(169, 114, 221);
+    height: 50%;
 }
 
 .col12 {
-    text-align: center;
-    padding: 0px;
-    margin: 0px auto;
-    background-color: rgb(212, 114, 221);
-    vertical-align: middle;
-    float: left;
-    width: 91.366%;
-}
-
-.col13 {
-    text-align: center;
-    padding: 0px;
-    margin: 0px auto;
-    background-color: rgb(221, 114, 189);
-    vertical-align: middle;
     float: left;
     width: 100%;
+    background-color: rgb(212, 114, 221);
+    height: 50%;
 }
 
 .footer {
