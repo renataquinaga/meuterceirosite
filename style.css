@@ -109,14 +109,133 @@ div img {
     background-color: rgb(221, 114, 114);
     vertical-align: middle;
     float: left;
-    width: 8,333%;
+    width: 8.333%;
 }
 
+.col2 {
+    text-align: center;
+    padding: 0px;
+    margin: 0px auto;
+    background-color: rgb(221, 153, 114);
+    vertical-align: middle;
+    float: left;
+    width: 16.666%;
+}
+
+.col3 {
+    text-align: center;
+    padding: 0px;
+    margin: 0px auto;
+    background-color: rgb(221, 187, 114);
+    vertical-align: middle;
+    float: left;
+    width: 24.966%;
+}
+
+.col4 {
+    text-align: center;
+    padding: 0px;
+    margin: 0px auto;
+    background-color: rgb(221, 210, 114);
+    vertical-align: middle;
+    float: left;
+    width: 33.266;
+}
+
+.col5 {
+    text-align: center;
+    padding: 0px;
+    margin: 0px auto;
+    background-color: rgb(205, 221, 114);
+    vertical-align: middle;
+    float: left;
+    width: 33.266%;
+}
+
+.col6 {
+    text-align: center;
+    padding: 0px;
+    margin: 0px auto;
+    background-color: rgb(189, 221, 114);
+    vertical-align: middle;
+    float: left;
+    width: 41.566%;
+}
+
+.col7 {
+    text-align: center;
+    padding: 0px;
+    margin: 0px auto;
+    background-color: rgb(144, 221, 114);
+    vertical-align: middle;
+    float: left;
+    width: 44.866%;
+}
+
+.col8 {
+    text-align: center;
+    padding: 0px;
+    margin: 0px auto;
+    background-color: rgb(114, 221, 137);
+    vertical-align: middle;
+    float: left;
+    width: 58.166%;
+}
+
+.col9 {
+    text-align: center;
+    padding: 0px;
+    margin: 0px auto;
+    background-color: rgb(114, 221, 194);
+    vertical-align: middle;
+    float: left;
+    width: 66.466%;
+}
+
+.col10 {
+    text-align: center;
+    padding: 0px;
+    margin: 0px auto;
+    background-color: rgb(114, 178, 221);
+    vertical-align: middle;
+    float: left;
+    width: 74,766%;
+}
+
+.col11 {
+    text-align: center;
+    padding: 0px;
+    margin: 0px auto;
+    background-color: rgb(169, 114, 221);
+    vertical-align: middle;
+    float: left;
+    width: 83.066%;
+}
+
+.col12 {
+    text-align: center;
+    padding: 0px;
+    margin: 0px auto;
+    background-color: rgb(212, 114, 221);
+    vertical-align: middle;
+    float: left;
+    width: 91.366%;
+}
+
+.col13 {
+    text-align: center;
+    padding: 0px;
+    margin: 0px auto;
+    background-color: rgb(221, 114, 189);
+    vertical-align: middle;
+    float: left;
+    width: 100%;
+}
 
 .footer {
     margin: 0px auto;
     padding: 2vw;
-    background-color: #59665c;
+    background-color: #465249;
 }
 
 .clearfix:after {
