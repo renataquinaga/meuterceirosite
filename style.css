@@ -78,68 +78,6 @@ p {
     margin: 1vw;
 }
 
-div img {
-    max-width: 100vw;
-
-}       
-.home {
-    text-align: center;
-    color:rgb(212, 212, 212);
-    padding: 2vw;
-    margin: 0px auto;
-    background-color:rgb(38, 38, 65);
-    clear: both;
-}
-
-.lojaonline {
-    text-align: center;
-    padding: 2vw;
-
-}
-.sobrenos {
-    text-align: center;
-    padding: 2vw;
-    background-color: #9db978;
-    margin: 0px auto;
-}
-
-.caixona {
-    text-align: center;
-    padding: 0px;
-    margin: 0px auto;
-    background-color: rgb(199, 199, 199);
-    vertical-align: middle;
-}
-
-.caixinha {
-    text-align: center;
-    padding: 2vw 0;
-    margin: 0px auto;
-    background-color: rgb(199, 199, 199);
-    width: 50%;
-}
-
-.caixinhaimg {
-    text-align: center;
-    padding: 0;
-    margin: 0px auto;
-    background-image: inherit;
-    width: 50%;
-}
-
-.blog {
-    text-align: center;
-    padding: 2vw;
-    margin: 0px;
-    background-color:#6dab7f;
-}
-
-.footer {
-    margin: 0px auto;
-    padding: 2vw;
-    background-color: #59665c;
-}
-
 a.button:link {
     background-color: #262641;
     color: white;
@@ -159,29 +97,26 @@ a.button:visited {
     color: white;
 }
 
-.trescolunas {
-    float: left;
-    width: 28vw;
+div img {
+    max-width: 100vw;
+
+}       
+
+.col1 {
     text-align: center;
-    margin: 1.72vw
-}
-
-.quatrocolunas {
+    padding: 0px;
+    margin: 0px auto;
+    background-color: rgb(221, 114, 114);
+    vertical-align: middle;
     float: left;
-    width: 20vw;
-    text-align: left;
-    margin: 1.72vw
+    width: 8,333%;
 }
 
 
-.esquerda{
-    float: left;
-    margin: auto;
-}
-
-.direita{
-    float: right;
-    margin: auto;
+.footer {
+    margin: 0px auto;
+    padding: 2vw;
+    background-color: #59665c;
 }
 
 .clearfix:after {
